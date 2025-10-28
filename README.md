@@ -50,5 +50,5 @@ Name: Write Report | Start Time: 17:02:12 | End Time: 17:47:22 | Total Time: 45.
 Total Time: 82.42
 ```
 
-🏫 Project Background
+## 🏫 Project Background
 This tool was created as a personal utility to track daily focus and productivity time in a simple, distraction-free way.
